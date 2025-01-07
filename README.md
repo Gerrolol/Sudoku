@@ -18,6 +18,7 @@ Copy code
 0 6 0 0 0 0 2 8 0
 0 0 0 4 1 9 0 0 5
 0 0 0 0 8 0 0 7 9
+
 Run the program:
 After entering the grid, press enter. The program will begin solving. The program will then output the completed Sudoku grid in the popup.
 
